@@ -1,19 +1,28 @@
 ### Hi there! 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600" height="300"/>
+</div>
 
-🌐 **About Me**  
+**Technologies & Tools**  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" **alt="raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastApi" **alt="FastApi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" **alt="arduino" width="40" height="40"/>&nbsp;
+</div>
+
+**GitHub Analytics**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shallange&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
-🛠 **Technologies & Tools**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![REST](https://img.shields.io/badge/REST-%26%23202323.svg?style=plastic&logo=rest&logoColor=white)
-![JSON](https://img.shields.io/badge/json-%23black.svg?style=plastic&logo=json&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shallange&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117)
 
-📊 **GitHub Analytics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shallange&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shallange&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-🔗 **Quick Links**  
+**Quick Links**  
 - [LinkedIn](#) *(https://www.linkedin.com/in/jimmy-kroneld-bb575917a/)*
