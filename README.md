@@ -1,9 +1,8 @@
 ## Jimmy Kroneld
 
 Android developer (Kotlin)  
-Background in embedded systems & IoT
+Learning Swift (iOS development)
 
-Working with both hardware and software  
-(soldering, Raspberry Pi, microcontrollers, Android apps)
+Embedded / IoT on the side — Raspberry Pi, microcontrollers, soldering
 
-Currently learning more about 3D printing and smart home setups
+Exploring 3D printing and building more complete setups
